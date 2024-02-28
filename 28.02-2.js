@@ -9,6 +9,3 @@ console.log([] == +[])
 
 const c = [...a]
 console.log(a == c)
-console.log(b == c)
-console.log(a === c)
-console.log(b === c)
